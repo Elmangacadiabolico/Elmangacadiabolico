@@ -1,39 +1,43 @@
-Hola, soy Leandro
- Desarrollador en formación
+# 🇦🇷 Español
 
-Actualmente estoy aprendiendo y desarrollando proyectos relacionados
-con desarrollo web y programación.
+## 👋 Hola, soy Leandro
 
-Tecnologías
+💻 **Programador y estudiante de Ingeniería en Sistemas de Información.**
 
-Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- Bootstrap
+Finalicé mi formación secundaria como **Técnico Programador** y actualmente continúo desarrollando mis conocimientos y habilidades como estudiante de **Ingeniería en Sistemas de Información en la UTN FRC**.
 
-Backend
-- Node.js
-- Express
-- MongoDB
+También cuento con experiencia trabajando en proyectos junto a **Hiperactiva**, donde pude comenzar a aplicar mis conocimientos en un entorno profesional.
 
-También trabajo con:
-- Git y GitHub
-- Godot / GDScript
+### 🛠️ Tecnologías
 
-Proyectos destacados
+* HTML, CSS, JavaScript
+* React
+* Node.js, Express
+* MongoDB
+* Git & GitHub
+* Godot / GDScript
 
-Piano Web
-Aplicación web interactiva utilizando JavaScript y Tone.js.
+🚀 Actualmente sigo aprendiendo, desarrollando proyectos y buscando crecer profesionalmente en el área de software.
 
-Videojuego en Godot
-Proyecto desarrollado con Godot y GDScript, incluyendo movimiento,
-sistema de monedas y mecánicas de salto.
+---
 
-Desarrollo Web
-Proyectos utilizando HTML, CSS, JavaScript, React y Bootstrap.
+# 🇬🇧 English
 
-Contacto
+## 👋 Hi, I'm Leandro
 
-[LinkedIn] | [Email] | [Portfolio]
+💻 **Programmer and Information Systems Engineering student.**
+
+I completed my secondary education as a **Programming Technician** and I am currently developing my skills and knowledge as an **Information Systems Engineering student at UTN FRC**.
+
+I also have experience working on projects with **Hiperactiva**, where I had the opportunity to start applying my programming knowledge in a professional environment.
+
+### 🛠️ Technologies
+
+* HTML, CSS, JavaScript
+* React
+* Node.js, Express
+* MongoDB
+* Git & GitHub
+* Godot / GDScript
+
+🚀 I am continuously learning, building projects, and developing my professional skills in software development.
