@@ -10,7 +10,7 @@ También cuento con experiencia trabajando en proyectos junto a **Hiperactiva**,
 
 ###   Tecnologías
 
-* HTML, CSS, JavaScript, Tyscript
+* HTML, CSS, JavaScript, Tyscript , Python
 * React, next.js
 * Node.js, Express
 * MongoDB
@@ -34,7 +34,7 @@ I also have experience working on projects with **Hiperactiva**, where I had the
 
 ###  Technologies
 
-* HTML, CSS, JavaScript, Tyscript
+* HTML, CSS, JavaScript, Tyscript, Python
 * React, next.js
 * Node.js, Express
 * MongoDB
